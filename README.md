@@ -1,11 +1,11 @@
 # Please proceed as follows : 
 
-1. You must have node js installed on computer if not then download it from https://nodejs.org/en/ and choose the LTS version and seen in the image below.<br><br>
+1. You must have node js installed on computer if not then download it from https://nodejs.org/en/ and choose the LTS version and seen in the image below and then install it.<br><br>
 <center><img src="images/Node_JS.png" width="100%" height="450px"></center>
 <br><br>
 
 
-2. You must have Git installed on computer if not then download it from https://gitforwindows.org/ and click the download button and seen in the image below.<br><br>
+2. You must have Git installed on computer if not then download it from https://gitforwindows.org/ and click the download button and seen in the image below and then install it.<br><br>
 <center><img src="images/Git_Bash.png" width="100%" height="450px"></center>
 <br><br>
 
