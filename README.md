@@ -27,7 +27,6 @@
 
 
 5. Open newspaper folder and then open git bash there and run command 'npm i' then it will download all the dependencies<br><br>
-![Alt text](images/Install_Dependencies.png)
 <center><img src="images/Install_Dependencies.png" width="100%" height="450px"></center>
 <br><br>
 
