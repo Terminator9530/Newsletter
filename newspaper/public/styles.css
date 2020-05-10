@@ -8,6 +8,10 @@
     height:auto;
 }
 
+body{
+    background-color: #e1dfdf;
+}
+
 .card-columns{
     column-gap: 0!important;
     background-color: #e1dfdf;
