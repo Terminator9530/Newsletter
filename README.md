@@ -18,7 +18,7 @@
 <br><br>
 
 
-4. Now paste the command 'https://github.com/Terminator9530/Newsletter.git' by right clicking the terminal and select paste or use Shift+Ins as seen in image below<br><br>
+4. Now paste the command 'git clone https://github.com/Terminator9530/Newsletter.git' by right clicking the terminal and select paste or use Shift+Ins as seen in image below<br><br>
 <center>
     <img src="images/Git_Clone.png" width="100%" height="450px">
     <img src="images/Clone.png" width="100%" height="450px">
