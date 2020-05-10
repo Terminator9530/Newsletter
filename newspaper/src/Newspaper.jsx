@@ -1,7 +1,7 @@
 import React,{useEffect} from "react";
-import Card from "./Card";
+import News from "./News";
 
-function App(){
+function Newspaper(){
     const [state,setState]=React.useState([]);
     const allnews=[];
     const allscore={};
@@ -36,22 +36,22 @@ function App(){
             }
         });
     }
-    var count=25;
-    for(var i in state){
+    var count=25,i;
+    for(i in state){
       allscore[state[i].score]="";
     }
     var keys=Object.keys(allscore);
-    for(var i in keys){
+    for(i in keys){
       if(allscore[keys[i]]==="")
       allscore[keys[i]]=count++;
     }
     return (
         <div className="card-columns">
             {state.map((item,index)=>{
-                return <Card item={item.title} size={allscore[item.score]} content={item.content} key={index} />
+                return <News item={item.title} size={allscore[item.score]} content={item.content} key={index} />
             })}
         </div>
     );
 }
 
-export default App;
+export default Newspaper;

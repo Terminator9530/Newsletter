@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card(props){
+function News(props){
     return(
         <div className="card">
             <div className="card-body">
@@ -11,4 +11,4 @@ function Card(props){
     );
 }
 
-export default Card;
+export default News;
