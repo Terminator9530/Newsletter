@@ -36,7 +36,7 @@
 <br><br>
 
 
-7. At last to see project only click link https://5eb790c48a29b29dc4a4914c--objective-liskov-8d7f95.netlify.app/ some screenshots are : <br><br>
+7. At last to see project only click link https://objective-liskov-8d7f95.netlify.app/ some screenshots are : <br><br>
 <center>
     <img src="images/Loader.png" width="100%" height="450px">
     <img src="images/Image1.png" width="100%" height="450px">
